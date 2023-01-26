@@ -1,0 +1,15 @@
+.half {
+  cursor: pointer;
+  height: 100%;
+  left: 49.9%;
+  min-height: 102%;
+  min-width: 101%;
+  object-fit: cover;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  transition-delay: 1s;
+  opacity: 1;
+  background: transparent;
+}
